@@ -1,4 +1,4 @@
-package com.besalti.bluetoothchatcompose.data
+package com.besalti.bluetoothchatcompose.data.chat
 
 import android.bluetooth.BluetoothDevice
 import android.content.BroadcastReceiver
